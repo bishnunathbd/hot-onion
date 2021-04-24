@@ -1,0 +1,14 @@
+.navbar img{
+  height: 50px;
+}
+.red-btn{
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 30px;
+  padding: 10px 25px;
+  font-weight: 700;
+}
+.nav-item{
+  margin-left: 20px;
+}
